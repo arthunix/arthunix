@@ -4,11 +4,14 @@
 
 int main(int argc, char* argv[])
 {
-    const char* myInfo = "Hii, my name is Arthur and I am a Computer Engineering undergraduate student at @UFSCar, and forensic scientist student.";
-    const char* programming_languages[] = { "C" , "C++", "C#" , "Java" , "Fortran" , "Assembly", "Verilog" , "Shell" };
+    const char* myInfo = "Hii, my name is Arthur and I am a Computer Engineering undergraduate student at @UFSCar, and Forensic Scientist Student.";
+    const char* programming_langs[] = { "C" , "C++", "C#" , "Python", "Java" , "Fortran" , "Assembly", "Verilog" , "Shell Script" };
+    const char* langs[] = { "English", "Portuguese", "Chinese", "Russian" };
+    const char* tools[] = { "Numpy", "OpenGL", "Vulkan", "OpenCV" };
+    const char* editor = "emacs";
     printf("您好, 世界. 早上好. 🌎\n");
     printf("%s\n", myInfo);
-    printf("Actually I am studying about Operating Systems, Information Security, Malware Analysis and Reverse Engineering.\n");
+    printf("Actually I am studying about Kernel Programming, Information Security, Malware Analysis and Reverse Engineering.\n");
 
     return 0;
 }
@@ -34,7 +37,7 @@ int main(int argc, char* argv[])
   <img align="center" alt="Arth-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </a>
   <a href="https://fortran-lang.org/">
-  <img align="center" alt="Arth-Fortran" height="30" width="30" src="https://fortran-lang.org/assets/img/fortran_logo_256x256.png">
+  <img align="center" alt="Arth-Fortran" height="30" width="30" src="https://raw.githubusercontent.com/fortran-lang/fortran-lang.org/master/assets/img/fortran-logo.svg">
   </a>
   <a href="https://en.wikipedia.org/wiki/Unix">
   <img align="center" alt="Arth-Unix" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg">
@@ -44,6 +47,15 @@ int main(int argc, char* argv[])
   </a>
   <a href="https://www.autodesk.com.br/products/autocad/overview">
   <img align="center" alt="Arth-Autocad" height="30" width="35" src="https://img.icons8.com/color/48/000000/autodesk-autocad.png">
+  </a>
+  <a href="https://www.gnu.org/software/emacs/">
+  <img align="center" alt="Arth-Autocad" height="30" width="35" src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg">
+  </a>
+  <a href="https://visualstudio.microsoft.com/">
+  <img align="center" alt="Arth-Autocad" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Visual_Studio_Logo_%282013-2017%29.svg">
+  </a>
+  <a href="https://git-scm.com">
+  <img align="center" alt="Arth-Autocad" height="30" width="30" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
   </a>
 </div>
 </div>
