@@ -5,9 +5,7 @@
 int main(int argc, char* argv[])
 {
     const char* myInfo = "Hii, my name is Arthur and I am a Computer Engineering undergraduate student 
-                            at @UFSCar, and Distributed System and Computer Networks Security Researcher";
-    const char* programming_langs[] = { "C" , "C++", "C#" , "Python", "Java" , "Fortran" , 
-                                        "Assembly", "Verilog" , "Shell Script" };
+                            at @UFSCar, and Distributed Systems and Computer Networks Security Researcher";
     const char* langs[] = { "English", "Portuguese", "Chinese", "Russian" };
     const char* editor = "Emacs";
     printf("您好, 世界. 早上好. 🌎\n");
