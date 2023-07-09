@@ -4,12 +4,12 @@
 
 int main(int argc, char* argv[])
 {
-    const char* myInfo = "Hii, my name is Arthur and I am a Computer Engineering undergraduate student 
+    const char* myInfo = "Hii, my name is Arthur and I am a Computer Engineering undergraduate student         \
                             at @UFSCar, and Distributed Systems and Computer Networks Security Researcher";
+    const char* workInfo = "Actually I'm working as Firmware Programmer and Computer Network Researcher"
     const char* langs[] = { "English", "Portuguese", "Chinese", "Russian" };
     const char* editor = "Emacs";
     printf("您好, 世界. 早上好. 🌎\n");
-    printf("%s\n", myInfo);
     printf("Actually I am studying about Kernel Programming, Malware Analysis and Reverse Engineering.\n");
 
     return 0;
@@ -23,9 +23,6 @@ int main(int argc, char* argv[])
   <a href="https://en.wikipedia.org/wiki/C%2B%2B/">
   <img align="center" alt="Arth-Cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   </a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/">
-  <img align="center" alt="Arth-Cs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  </a>
   <a href="https://docs.oracle.com/en/java/">
   <img align="center" alt="Arth-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   </a>
@@ -34,9 +31,6 @@ int main(int argc, char* argv[])
   </a>
   <a href="https://www.python.org/">
   <img align="center" alt="Arth-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  </a>
-  <a href="https://fortran-lang.org/">
-  <img align="center" alt="Arth-Fortran" height="30" width="30" src="https://raw.githubusercontent.com/fortran-lang/fortran-lang.org/master/assets/img/fortran-logo.svg">
   </a>
   <a href="https://en.wikipedia.org/wiki/Unix">
   <img align="center" alt="Arth-Unix" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg">
@@ -51,10 +45,19 @@ int main(int argc, char* argv[])
   <img align="center" alt="Arth-Autocad" height="30" width="35" src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg">
   </a>
   <a href="https://visualstudio.microsoft.com/">
-  <img align="center" alt="Arth-Autocad" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Visual_Studio_Logo_%282013-2017%29.svg">
+  <img align="center" alt="Arth-VisualStudio" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Visual_Studio_Logo_%282013-2017%29.svg">
   </a>
   <a href="https://git-scm.com">
-  <img align="center" alt="Arth-Autocad" height="30" width="30" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
+  <img align="center" alt="Arth-Git" height="30" width="30" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
+  </a>
+  <a href="https://www.raspberrypi.org">
+  <img align="center" alt="Auth-Raspberry" height="50" width="50" src="https://www.logo.wine/a/logo/Raspberry_Pi/Raspberry_Pi-Logo.wine.svg">
+  </a>
+  <a href="https://www.microsoft.com/en-us/windows">
+  <img align="center" alt="Arth-MsWindows" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Windows_logo_-_2012_derivative.svg">
+  </a>
+  <a href="https://www.kernel.org/">
+  <img align="center" alt="Arth-Linux" height="30" width="90" src="https://logodownload.org/wp-content/uploads/2022/05/linux-logo.png">
   </a>
 </div>
 </div>
