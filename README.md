@@ -57,7 +57,7 @@ int main(int argc, char* argv[])
   <img align="center" alt="Arth-MsWindows" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Windows_logo_-_2012_derivative.svg">
   </a>
   <a href="https://www.kernel.org/">
-  <img align="center" alt="Arth-Linux" height="30" width="90" src="https://logodownload.org/wp-content/uploads/2022/05/linux-logo.png">
+  <img align="center" alt="Arth-Linux" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Icons8_flat_linux.svg">
   </a>
 </div>
 </div>
