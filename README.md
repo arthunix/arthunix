@@ -75,12 +75,11 @@ int main(int argc, char* argv[])
   ##
  
 <div> 
-<!---  <a href="https://www.youtube.com/channel/UCEWlhZ4gU0MItkBavpvwwBA/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> --->
+  <a href="https://gitlab.com/arthunix" target="_blank"><img src="https://img.shields.io/badge/-GitLab-FFFFFF?style=for-the-badge&logo=gitlab" target="_blank"></a>
   <a href="https://www.instagram.com/arthur.silverio/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:arthur.silverio@estudante.ufscar.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:arthur.silverio@estudante.ufscar.br"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/arthur-silverio-34aaa71b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="https://t.me/arthur_silverio" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-
+  <a href="https://t.me/arthur_silverio" target="_blank"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 </div>
  ##
  <p>
