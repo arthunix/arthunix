@@ -8,8 +8,8 @@ int main(int argc, char* argv[])
     at @UFSCar, and DevOps Intern at @vonbraunlabs and Cloud Engineer at @luizalabs Scholarship Project";
     const char*   langs[] = { "English", "Portuguese", "Chinese", "Russian" };
     const char*  editor[] = { "emacs", "vim", "vscode" };
-    const char* studing[] = { "Computer Networks", "Distributed Systems", "Operating Systems", "Kernel Programming",
-    "Hacking", "Reverse Engineering", "IoT", "Cloud", "Computer Vision", "IA/AM", "DevOps" };
+    const char* studing[] = { "Computer Networks", "Distributed Systems", "Operating Systems", "Kernel \
+    Programming", "Hacking", "Reverse Engineering", "IoT", "Cloud", "Computer Vision", "IA/AM", "DevOps" };
 
     return 0;
 }
