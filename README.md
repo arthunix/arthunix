@@ -4,12 +4,12 @@
 
 int main(int argc, char* argv[])
 {
-    const char*    whoami = "Hii, my name is Arthur and I am a Computer Engineering undergraduate student at @UFSCar, \
-                             and DevOps Intern at @vonbraunlabs and Cloud Engineer at @luizalabs Scholarship Project";
+    const char* whoami = "Hii, my name is Arthur and I am a Computer Engineering undergraduate student \
+    at @UFSCar, and DevOps Intern at @vonbraunlabs and Cloud Engineer at @luizalabs Scholarship Project";
     const char*   langs[] = { "English", "Portuguese", "Chinese", "Russian" };
     const char*  editor[] = { "emacs", "vim", "vscode" };
     const char* studing[] = { "Computer Networks", "Distributed Systems", "Operating Systems", "Kernel Programming",
-                                "Hacking", "Reverse Engineering", "IoT", "Cloud", "Computer Vision", "IA/AM", "DevOps" };
+    "Hacking", "Reverse Engineering", "IoT", "Cloud", "Computer Vision", "IA/AM", "DevOps" };
 
     return 0;
 }
